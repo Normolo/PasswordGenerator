@@ -22,4 +22,3 @@ You have three methods of installing.
 - Execute the downloaded file
 - Execute the `python-3.9.7-amd64` file in order to install python.
 - Execute the password generator file with python.
-### Third Method - `.exe` `IExpress` installation
