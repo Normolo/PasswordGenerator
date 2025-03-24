@@ -1,0 +1,8 @@
+{
+    "charsAll": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_+-=[]{}|;:,.<>/?",
+    "charsNum": "0123456789",
+    "charsLet": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "charsLoB": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "charsLoS": "abcdefghijklmnopqrstuvwxyz",
+    "charsSpe": "!@#$%^&*()_+-=[]{}|;:,.<>/?"
+}
