@@ -73,3 +73,13 @@ You have three methods of installing.
 
 ## License
 This project is licensed under the Creative Commons Legal Code CC0 1.0 Universal.
+
+## Running the Raw Source Code
+To run the raw source code on your desktop quickly, follow these steps:
+1. Download the main `.py` [file](https://github.com/Normolo/PasswordGenerator/blob/main/Password%20Generator/PassGenerator.py) and the `config.json` [file](https://github.com/Normolo/PasswordGenerator/blob/main/Password%20Generator/config.json) in the repository.
+2. If not already downloaded/installed, [download Python 3.X](https://www.python.org/downloads/release/python-397/).
+3. Open a terminal or command prompt and navigate to the directory where the downloaded files are located.
+4. Run the script using the following command:
+   ```
+   python PassGenerator.py
+   ```
